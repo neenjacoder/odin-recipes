@@ -3,7 +3,9 @@ body {
 }
 .image,
 .link,
-.title {
+.title,
+.text,
+.center {
     text-align: center;
 }
 .title {
